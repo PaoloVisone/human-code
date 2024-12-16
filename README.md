@@ -7,12 +7,14 @@ accendo lo scanner
 accendo il pc
 	
 verifico la connessione tra scanner e pc
+
 	?  SE la connessione è funzionante 
 	:  ALTRIMENTI 
 		?  SE supero i 5 tentativi
 			*chiamo un tecnico
 	
 verifico settaggi scanner
+
 	?  SE i settaggi sono corretti
 	:  ALTRIMENTI 
 		*chiamo un tecnico
