@@ -46,9 +46,13 @@ salvo il file
 sollevo parte superiore stampante
 rimuovo il foglio scansionato
 //
+
 FINCHE' non finisco i fogli da scansionare
+
 chiudo parte superiore stampante
 spengo la stampante
 unifico in un unico pdf
 rinomino il pdf finale
 archivio il pdf finale
+
+spengo il PC
